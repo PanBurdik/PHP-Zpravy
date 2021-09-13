@@ -1,0 +1,121 @@
+header{
+    background-color: darkorange;
+    border-radius: 10px;
+    border: black solid 3px;
+    height: 90px;
+}
+
+header div h1{
+    float:left;
+    padding-left: 20px;
+    text-shadow: 3px 3px 3px white
+
+}
+
+header div div{
+    float: right;
+    margin: 32px;
+
+}
+
+header div div a{
+    border: solid black 2px;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: orange;
+}
+
+header div div a:hover{
+    color: white;
+    background-color: coral;
+}
+
+
+
+nav{
+    padding-left: 120px;
+    padding-right: 120px;
+
+}
+nav h1{
+    font-size: 50px;
+    text-shadow: 3px 3px 3px darkorange;
+}
+
+nav h1 a{
+    text-decoration: none;
+    color: black;
+}
+nav h3{
+    float: Left;
+    font-size: 25px;
+    text-shadow: 1px 1px 3px blue
+}
+
+nav nav{
+    margin-top: 42px;
+
+}
+nav h2{
+    font-weight: bold;
+    font-size: 20px;
+}
+nav nav a{
+    color: black;
+    text-decoration: none;
+    float: right;
+    margin-right: 10px;
+    text-shadow: 0px 0px 2px green;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+table {
+    width: 1600px;
+    margin-left: 100px;
+    border-collapse: collapse;
+
+}
+
+table, td, th{
+    border: solid 2px black;
+}
+
+th{
+    height: 50px;
+    font-size: 40px;
+}
+
+td{
+    height: 25px;
+    font-size: 20px;
+}
+
+td a{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+td a:hover{
+    color: darkorange;
+}
+
+
+nav a{
+    color: black;
+    text-decoration: none;
+    text-shadow: 0px 0px 2px darkorange;
+    font-weight: bold;
+    font-size: 25px;
+    text-align:center;
+    display:block;
+
+}
+
+
